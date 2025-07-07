@@ -1,5 +1,7 @@
 # Analyzing Customer Behavior Using KMeans in Python
 
+## Detailed Documentation: https://medium.com/@abhayemani8/customer-insights-kmeans-documentation-16a0dd7b81d8
+
 ## Project Overview
 
 Small online retailers often lack the technical expertise to implement data mining and customer-centric marketing strategies. This project provides a practical case study on using data mining techniques to enhance business intelligence for an online retailer. 
